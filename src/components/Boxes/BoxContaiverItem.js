@@ -1,14 +1,8 @@
 import { CardActions, styles, Card, CardContent } from '@mui/material'
 import React from 'react'
-// import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
-// import BackgroundImage from "react-background-image";
-// import placeholder from "./Img/b-g-welcom.jpg";
 
 
-// style="width:100%"
-// sx:{{ background='#20c05c' }}
-// // 
 const BoxCotainerItem = () => {
     return (
 
@@ -17,8 +11,6 @@ const BoxCotainerItem = () => {
                 <img src='/images/b-g-welcom.jpg' />
             </div>
             <div className="welcom" >
-                {/* <BackgroundImage
-                placeholder={placeholder}> */}
 
                 <Card>
                     <CardContent className="welcom-box">
@@ -37,7 +29,6 @@ const BoxCotainerItem = () => {
                     </CardContent>
                 </Card >
 
-                {/* </BackgroundImage> */}
             </ div >
         </div>
 

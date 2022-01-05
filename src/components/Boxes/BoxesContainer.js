@@ -7,7 +7,6 @@ import BoxCotainerItem2 from './BoxContainerItem2';
 import BoxContainer3 from './BoxContainer3';
 import BoxContainer4 from './BoxContainer4';
 import BoxContainer5 from './BoxContainer5';
-// import ImageList from '@mui/material/ImageList';
 
 
 const BoxesContainer = () => {
@@ -36,11 +35,7 @@ const BoxesContainer = () => {
                     <BoxContainer3 />
                 </Grid>
                 <Grid item xs={12} md={4} sm={6}>
-                    {/* <ImageList>
-                        <img src='/images/home_recipes2_sectionbg2'> */}
                     <BoxContainer4 />
-                    {/* </img>
-                    </ImageList> */}
                 </Grid>
                 <Grid item xs={12} md={4} sm={6}>
                     <BoxContainer5 />

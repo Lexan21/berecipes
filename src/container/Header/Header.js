@@ -11,20 +11,6 @@ import Menu from '../../components/Menu/Menu.js'
 import CartHeader from '../../components/CartHeader/CartHeader.js';
 
 
-
-
-// import { styled } from '@mui/material/styles';
-// import { makeStyles } from "@material-ui/core";
-
-// const useStyles = makeStyles({
-//     headerColor: { background: '#1e1d26', },
-
-
-//component="div" })
-
-// style={{ width: '100%' }}
-// sx={{ m: 0, p: 0 }} 
-// 
 const Header = () => {
 
     console.log(Typography);

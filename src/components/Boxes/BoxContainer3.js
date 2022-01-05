@@ -10,9 +10,7 @@ const BoxesContainer3 = () => {
             <div className="other-recipes">
 
                 <Card className="other-recipes-box">
-                    {/* <img src="/images/back-g-home_recipes2.jpg" /> */}
                     <CardContent className="other-recipes-box-content">
-                        {/* <img src="/images/back-g-home_recipes2.jpg" /> */}
                         <h6>check this</h6>
                         <h2>Other recipes</h2>
                         <CardActions spacing={2} direction="row">

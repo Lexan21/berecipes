@@ -1,8 +1,7 @@
 import { Button, CardActions } from '@mui/material';
 import React from 'react';
 import BoxContainer4_1 from './BoxContainer4_1';
-// className="button-1"
-// className="button-2"
+
 const BoxContainer4 = () => {
     return (
         <>

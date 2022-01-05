@@ -3,9 +3,7 @@ import Grid from '@mui/material/Grid';
 import './BoxContainerItem.css'
 import BoxCotainerItem2_1 from './BoxCotainerItem2_1'
 import BoxArray from './BoxArray';
-// import { ProductionQuantityLimits } from '@mui/icons-material';
 
-// className = "table-two-row1"
 
 const BoxCotainerItem2 = () => {
     return (
